@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>snack_1.jpg</filename>
+	<path>C:\tensorflow\models\research\object_detection\images\test\snack_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snack1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>28</ymin>
+			<xmax>173</xmax>
+			<ymax>201</ymax>
+		</bndbox>
+	</object>
+</annotation>
